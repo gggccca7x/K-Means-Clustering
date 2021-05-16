@@ -1,3 +1,5 @@
+https://www.markdownguide.org/cheat-sheet/
+
 # K-Means-Clustering
 A quick weekend project to code K means clustering from scratch.
 
